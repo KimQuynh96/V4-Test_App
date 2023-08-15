@@ -1,0 +1,59 @@
+{   
+    "tooltips": {
+        "domain": "Domain Name",
+        "id": "User Id For Login",
+        "pw": "User Pass Word For Login",
+        "em": "User Email For Send Mail",
+        "dm": "https://%s/ngw/app/#",
+        "tt_domain" :"Please Input Domain",
+        "tt_id" :"Please Input ID",
+        "tt_pw" :"Please Input Pass Word"
+
+    },
+    "menu_list"   :{
+        "all_folder"  : "Luu_Auto",
+        "mail"        : "Ngoc_Auto\\Ngoc_GW",
+        "board"       : "Ngoc_Auto\\Ngoc_Comanage",
+        "contact"     : "NQ_Auto",
+        "calendar"    : "KQ_Auto",
+        "approval"    : "Hanh_Auto",
+        "circular"    : "",
+        "todo"        : "",
+        "archive"     : "",
+        "asset"       : "",
+        "whisper"     : "",
+        "task"        : "",
+        "project"     : "",
+        "resource"    : "",
+        "expense"     : "",
+        "clouddisk"   : "",
+        "timecard"    : "",
+        "vacation"    : "KQ_Auto",
+        "postmaster"  : ""
+    },
+    "folder_list"       : {
+        "LUU"           : "Luu_Auto",
+        "NGOC GW"       : "Ngoc_Auto\\Ngoc_GW",
+        "NGOC COMANAGE" : "Ngoc_Auto\\Ngoc_Comanage",
+        "NHU QUYNH"     : "NQ_Auto",
+        "KIM QUYNH"     : "KQ_Auto",
+        "HANH"          : "Hanh_Auto"
+    },
+    "mail" :{
+        "all"   : "All",
+        "write" : "Compose",
+        "delete" :"Delete",
+        "edit"   :"Edit",
+        "move"   :"Move"
+    },
+    "board" :{
+        "board_setting": "Board : Setting"
+    },
+    "vacation" :{
+        "vacation_my"      : "Vacation : Sub My Vacation",
+        "vacation_manager" : "Vacation : Manager Processing",
+        "vacation_admin"   : "Vacation : Admin Settings"
+    }
+    
+   
+}
