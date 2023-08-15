@@ -1,0 +1,44 @@
+----------------------------------------------------------LOG IN-------------------------------------------------
+1. Access Log in page
+2. Input ID 
+3. Input Password 
+4. Enter Login  
+5. Log In successfully 
+2. English language is used
+------------------------------------------------------B. Menu Board------------------------------------------------------
+2. Hide list Company Board successfully
+-------------- Write Folder My Board --------------
+3. Click settings successfully
+4. Click My Board successfully
+5. Input Description successfully
+6. Check Use comment successfully
+7. Add user successfully
+8. Add User successfully
+8. Select  Permissison successfully
+9. Save Folder Board successfully
+10. Click button Close successfully
+[92m=> Show Folder Board successfully => PASS[0m
+description
+Create folder successfully
+-------------- Write SubFolder My Board ---------------
+11. Select Parent Folder successfully
+11. Input Subfolder successfully :  Sub 01
+12. Save Folder Board successfully
+13. Click button Close successfully
+[92m=> Show Folder Board successfully => PASS[0m
+description
+-------------- Delete SubFolder My Board ----------------
+15. Select subfolder successfully
+16. Select icon delete subfolder successfully
+17. Delete Sub Folder successfully
+[92m=> .Delete SubFolder My Board =>------- PASS[0m
+description
+Create Subfolder successfully
+--------------- Edit Folder My Board ----------------
+19. Save Folder Board successfully
+20. Edit Folder Board  successfully
+[92m=> Edit Folder My Board => PASS[0m
+description
+Edit folder successfully
+21. Delete Folder Board  successfully
+Delete folder successfully

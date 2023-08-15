@@ -1,0 +1,9 @@
+LOGIN
+Input id 
+Input pass 
+Click on Login button 
+Login successful
+ACCESS VACATION
+Access Menu Vacation
+MY VACATION STATUS
+Access sub menu My Vacation Status 
